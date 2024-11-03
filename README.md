@@ -34,3 +34,9 @@ The app will be available at http://localhost:3000.
 ## Usage
 1. Once the app is running, you can see a list of robo-friends displayed in card format.
 2. Use the search bar to filter the list of friends by name. The app will update the displayed cards as you type.
+
+## Screenshots
+
+
+![Screenshot 2024-11-03 120543](https://github.com/user-attachments/assets/347e3fa6-a381-40f2-bd63-1b3a2789287c)
+![Screenshot 2024-11-03 120612](https://github.com/user-attachments/assets/0355de04-6377-4acb-8f7d-071a8398cfc2)
